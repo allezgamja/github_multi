@@ -1,0 +1,14 @@
+{
+    "message": {
+        "@type": "response",
+        "@service": "naverservice.nmt.proxy",
+        "@version": "1.0.0",
+        "result": {
+            "srcLangType": "en",
+            "tarLangType": "ko",
+            "translatedText": "안녕"
+        }
+    }
+}
+
+{'update_id': 575596556, 'message': {'message_id': 36, 'from': {'id': 902084106, 'is_bot': False, 'first_name': 'Sehee', 'last_name': 'Han', 'language_code': 'ko'}, 'chat': {'id': 902084106, 'first_name': 'Sehee', 'last_name': 'Han', 'type': 'private'}, 'date': 1576219030, 'photo': [{'file_id': 'AgADBQADIakxG-DXmFfpl5P_ICLaHeSoJTMABAEAAwIAA20AAw_bAAIWBA', 'file_size': 14311, 'width': 182, 'height': 320}, {'file_id': 'AgADBQADIakxG-DXmFfpl5P_ICLaHeSoJTMABAEAAwIAA3gAAxDbAAIWBA', 'file_size': 60610, 'width': 456, 'height': 800}, {'file_id': 'AgADBQADIakxG-DXmFfpl5P_ICLaHeSoJTMABAEAAwIAA3kAAw3bAAIWBA', 'file_size': 67393, 'width': 530, 'height': 930}]}}
